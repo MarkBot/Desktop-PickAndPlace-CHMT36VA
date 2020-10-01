@@ -1,0 +1,16 @@
+### Module positions - created on 06/28/20 19:13:46 ###
+### Printed by Pcbnew version kicad (5.1.6)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                    Package                        PosX       PosY       Rot  Side
+C3        10uf                   C_0603_1608Metric           17.3000     9.7000   90.0000  top
+C4        0.1uf                  C_0402_1005Metric           15.1000     7.6000    0.0000  top
+C5        1uf                    C_0402_1005Metric           15.0850     8.6000    0.0000  top
+C7        0.1uf                  C_0402_1005Metric           17.5000     7.6000  180.0000  top
+C10       0.1uf                  C_0402_1005Metric           11.0000     4.1000  180.0000  top
+R2        30                     R_0402_1005Metric           12.5000     8.3850   90.0000  top
+R3        30                     R_0402_1005Metric           12.5000     6.5000  270.0000  top
+U1        ME6217-5               SOT-23-5                    16.3000     5.5000  270.0000  top
+U2        74LVC2G125             VSSOP-8_2.4x2.1mm_P0.5mm    10.7000     7.0000  270.0000  top
+U4        ttgo-32-micro-symbols  ttgo-32-micro-slim          28.0000     7.5000  270.0000  top
+## End
